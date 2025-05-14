@@ -1,5 +1,5 @@
 {
-  "name": "prompt-recommender",
+  "name": "prompt-recommender-full-v2",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
